@@ -22,7 +22,6 @@ public class stringCompression {
 			if(i==copy.length()-1)
 				result = result + current + count;
 		}
-		System.out.println(result + " " + str);
 		if(str.length() <= result.length())
 			return str;
 		return result;
