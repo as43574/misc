@@ -1,4 +1,9 @@
 package practice;
+/*
+ * Checks to see if two given strings are one character
+ * edit away from being the same
+ * 
+ */
 public class oneAway {
 	
 	//This solution fails to account for reordered strings of the same chars
