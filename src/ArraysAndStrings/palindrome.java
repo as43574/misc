@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Checks if input string is a permutation of a palindrome
  * 

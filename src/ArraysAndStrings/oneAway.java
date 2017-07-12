@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Checks to see if two given strings are one character
  * edit away from being the same

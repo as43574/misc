@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Rotate a given square matrix by 90 degrees.
  * For simplicity, I'm assuming all inputs are square.

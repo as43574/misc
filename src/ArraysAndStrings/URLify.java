@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Replaces spaces in string (char array in this case) to %20
  * Assumes input string has buffer space at end for extra chars

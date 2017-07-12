@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Search matrix for a zero; if found, make the row/col containing that zero
  * all zeros

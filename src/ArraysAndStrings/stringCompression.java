@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 /*
  * Converts a string to compressed string of type:
  * aaabbcccaa = a3b2c3a2

@@ -1,4 +1,4 @@
-package practice;
+package ArraysAndStrings;
 
 import static org.junit.Assert.*;
 
